@@ -2,7 +2,7 @@
 
 Registro reanudable de la entrega `0.1.0`. Última actualización: **2026-10-31**.
 
-> **Commits de referencia:** `8ae7442` — `feat: deliver AgroShield demo platform`; `615caea` — `docs: record initial commit and final QA counts`; `0c41d3a` — `fix: harden containers and record Docker verification` (cierre de la ronda Docker); `8a84341` — `docs: record final Docker verification` (publicación en GitHub).
+> **Commits de referencia:** `8ae7442` — `feat: deliver AgroShield demo platform`; `615caea` — `docs: record initial commit and final QA counts`; `0c41d3a` — `fix: harden containers and record Docker verification` (cierre de la ronda Docker); `8a84341` — `docs: record final Docker verification` (último commit antes de publicar los repositorios).
 
 ## 1. Dónde está el proyecto
 
@@ -10,7 +10,7 @@ Registro reanudable de la entrega `0.1.0`. Última actualización: **2026-10-31*
 C:\Users\vcris\OneDrive\Escritorio\AgroShield
 ```
 
-- Rama: `main`; commits `8ae7442`, `615caea`, `0c41d3a` y `8a84341`. El árbol queda limpio tras el commit de publicación.
+- Rama: `main`; commits `8ae7442`, `615caea`, `0c41d3a` y `8a84341`, más el commit de publicación de los repositorios de componentes. El árbol queda limpio.
 - Remoto: <https://github.com/Zatrynox/agroshield> (público, cuenta personal `Zatrynox`; no existe organización AgroShield).
 - Workspace pnpm con `backend/`, `frontend/`, `landing/` y `packages/design-tokens/`.
 - Node `24.15.0`, pnpm `11.1.2`, Docker `29.9.2`, Compose `v5.6.1`.
