@@ -1,5 +1,7 @@
 # Documentación — AgroShield
 
+[![CI](https://github.com/Zatrynox/agroshield-docs/actions/workflows/ci.yml/badge.svg)](https://github.com/Zatrynox/agroshield-docs/actions/workflows/ci.yml)
+
 Diseño, QA, checklist de lanzamiento y estado reanudable de AgroShield `0.1.0`. Esta documentación describe lo que está implementado y verificado, y separa explícitamente lo que sigue pendiente.
 
 > **Repositorio de documentación.** Se extrae del monorepo [`Zatrynox/agroshield`](https://github.com/Zatrynox/agroshield), que sigue siendo la fuente de verdad. El código vive en [`agroshield-backend`](https://github.com/Zatrynox/agroshield-backend), [`agroshield-frontend`](https://github.com/Zatrynox/agroshield-frontend), [`agroshield-landing`](https://github.com/Zatrynox/agroshield-landing), [`agroshield-design-tokens`](https://github.com/Zatrynox/agroshield-design-tokens) y [`agroshield-infra`](https://github.com/Zatrynox/agroshield-infra).
